@@ -18,6 +18,7 @@ db.sqlite3
 run_django_myenv.sh
 venv_myenv.sh
 superuser ichbin creds.sb
+API Token PythonAnywhere sample code.sb
 
 # macOS
 ._*
