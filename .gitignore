@@ -19,6 +19,7 @@ run_django_myenv.sh
 venv_myenv.sh
 superuser ichbin creds.sb
 API Token PythonAnywhere sample code.sb
+blog/templates/blog/basebkp.html
 
 # macOS
 ._*
