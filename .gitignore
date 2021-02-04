@@ -26,6 +26,7 @@ Troubleshoot.sb.py
 Queries SQLite3.sb
 Error Migrate Blog (Error).png
 Error Migrate Blog (Path & File).png
+Django commands.sb
 
 # Backup files
 bkp_schema.py
