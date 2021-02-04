@@ -22,6 +22,7 @@ API Token PythonAnywhere sample code.sb
 blog/templates/blog/basebkp.html
 
 #Troubleshoot and other Files
+Troubleshoot & KB/
 Troubleshoot.sb.py
 Queries SQLite3.sb
 Error Migrate Blog (Error).png
