@@ -17,20 +17,9 @@ db.sqlite3
 # My Own Environment Start Files
 run_django_myenv.sh
 venv_myenv.sh
-superuser ichbin creds.sb
-API Token PythonAnywhere sample code.sb
-blog/templates/blog/basebkp.html
 
 #Troubleshoot and other Files
 Troubleshoot & KB/
-Troubleshoot.sb.py
-Queries SQLite3.sb
-Error Migrate Blog (Error).png
-Error Migrate Blog (Path & File).png
-Django commands.sb
-
-# Backup files
-bkp_schema.py
 
 # macOS
 ._*
