@@ -14,9 +14,8 @@ db.sqlite3
 # Static folder at project root
 /static/
 
-# My Own Environment Start Files
-run_django_myenv.sh
-venv_myenv.sh
+# Environment Start Files
+*.sh
 
 #Troubleshoot and other Files
 Troubleshoot & KB/
